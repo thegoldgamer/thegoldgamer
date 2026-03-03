@@ -1,7 +1,4 @@
-- 👋 sup, i'm thegoldgamer
-- 👀 interested in literally anything cool to me
-- 🌱 don't know really what to learn right now
-- 💞️ i dont collaborate, nor do i really create anyhting
-- 📫 How to reach me: you cant, good luck
+i do stuff (usually with copilot, im not fluent in any coding language)
+current project is gold's random stuff game, a unity vr game
 
 
