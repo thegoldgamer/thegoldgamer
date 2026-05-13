@@ -1,4 +1,3 @@
-i do stuff
-current project is gold's random stuff game, a unity vr game
+i do stuff, my current project is gold's random stuff game, my dream unity vr game
 
 
